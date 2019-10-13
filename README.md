@@ -1,1 +1,1 @@
-# Optical Music Rcognition menggunakan Convolutional Neural Network
+# Optical Music Recognition menggunakan Convolutional Neural Network
